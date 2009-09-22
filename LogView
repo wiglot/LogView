@@ -1,0 +1,5 @@
+#ifndef LOGVIEW
+#define LOGVIEW
+#include "logview.h"
+#include "logger.h"
+#endif
